@@ -22,19 +22,26 @@ Für die Erstellung der Website wurden folgende Tools und Plugins verwendet:
 ---
 
 ## Aufbau der Website
+<summary>
+<h2>Screenshots</h2>
+</summary> <br />
 
-### Startseite 
-<img width="1920" height="1080" alt="Screenshot 2026-06-22 at 09 41 16" src="https://github.com/user-attachments/assets/161aafb2-5c6f-4e44-b871-a59ef8e9933f" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-22 at 09 42 05" src="https://github.com/user-attachments/assets/1dd18f95-9d66-4336-8514-0b56c15a2d59" />
+<p align="center">
+  <p> Home Page </p>
+<img width="45%" alt="Screenshot 2026-06-22 at 09 41 16" src="https://github.com/user-attachments/assets/161aafb2-5c6f-4e44-b871-a59ef8e9933f" />
+<img width="45%" alt="Screenshot 2026-06-22 at 09 42 05" src="https://github.com/user-attachments/assets/1dd18f95-9d66-4336-8514-0b56c15a2d59" />
+</p>
+  <p> Blog-Bereich </p>
+<p align="center">
+<img width="45%"  alt="Screenshot 2026-06-22 at 09 42 18" src="https://github.com/user-attachments/assets/30ca0412-e695-486d-a0d6-0949c6e6e9bf" />
+</p>
 
-### Blog-Bereich
-<img width="1920" height="1080" alt="Screenshot 2026-06-22 at 09 42 18" src="https://github.com/user-attachments/assets/30ca0412-e695-486d-a0d6-0949c6e6e9bf" />
+ <p> Kontaktformular & About me </p>
+<p align="center">
+<img width="45%" alt="Screenshot 2026-06-22 at 09 42 52" src="https://github.com/user-attachments/assets/ba038b31-f842-46d2-afa7-b724674630aa" />
+  <img width="45%" alt="Screenshot 2026-06-22 at 09 41 54" src="https://github.com/user-attachments/assets/bc7c7434-f75a-43bc-ae6f-50c0bd98ef50" />
+</p>
 
-### Kontaktformular
-<img width="1920" height="1080" alt="Screenshot 2026-06-22 at 09 42 52" src="https://github.com/user-attachments/assets/ba038b31-f842-46d2-afa7-b724674630aa" />
-
-### About me 
-<img width="1920" height="1080" alt="Screenshot 2026-06-22 at 09 41 54" src="https://github.com/user-attachments/assets/bc7c7434-f75a-43bc-ae6f-50c0bd98ef50" />
 
 ---
 ## Video
